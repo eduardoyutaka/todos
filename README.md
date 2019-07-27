@@ -1,6 +1,6 @@
 # Photography Day!! (Don't forget to do the check-in)
 
-## Summary
+## Summary OLA MARILENE
 
 1. Introduction to Frontend
   - HTML Boilerplate, Tags and <!DOCTYPE html>
