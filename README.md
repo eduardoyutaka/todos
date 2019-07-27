@@ -2,6 +2,10 @@
 
 ## Summary OLA MARILENE
 
+#We did the check-in =D!
+
+## Summary
+
 1. Introduction to Frontend
   - HTML Boilerplate, Tags and <!DOCTYPE html>
   - Three Ways to Insert CSS
