@@ -1,5 +1,7 @@
 # Photography Day!! (Don't forget to do the check-in)
 
+#We did the check-in =D!
+
 ## Summary
 
 1. Introduction to Frontend
